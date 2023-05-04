@@ -1,4 +1,4 @@
-# arduino10_LED_sensivel
+# Arduino com LED sensível 
 LED SENSÍVEL A LUMINOSIDADE
 
 ## Contextualização
